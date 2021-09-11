@@ -28,7 +28,7 @@ public class EmployeeCrudController {
 				break;
 			}
 		}
-		return deletedEmp;
+		return null;
 	}
 
 	@PostMapping
